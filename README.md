@@ -10,6 +10,9 @@ Repo: b1pen9win/dotfiles
 
 ##################################################  
 Repo: b1pen9win/k8s  
+- k8s nodes base setup  
+===>  bash -c "$(curl -fsSL pen9win.ml/k8sbase)"
+
 - k8s master setup  
 ===>  bash -c "$(curl -fsSL pen9win.ml/k8smaster)"
 
